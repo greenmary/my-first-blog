@@ -25,7 +25,7 @@ SECRET_KEY = 'w39bxk#fu6f^g^1n4h_a3o8p84znku-v8#9ky3a!u*ho-46d##'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'greenmary.pythonanywhere.com']
 
 
 # Application definition
